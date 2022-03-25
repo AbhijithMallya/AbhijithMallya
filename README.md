@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 	 
 <p align="left"> Visitor count
 	<br>
-  <img src="https://profile-counter.glitch.me/PuneethKshetty/count.svg" />
+  <img src="https://profile-counter.glitch.me/AbhijithMallya/count.svg" />
 </p>
 
 <h2 align="center"><strong>Wanna Collab ??</strong></h2>
