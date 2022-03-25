@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/github/followers/AbhijithMallya?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://twitter.com/AbhijithMallya">
-    <img src="https://img.shields.io/twitter/follow/AbhijitMallya?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/AbhijithMallya?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>	 
   <a href="https://www.linkedin.com/in/abhijith-mallya-98768b202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
