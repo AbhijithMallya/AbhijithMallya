@@ -26,6 +26,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/abhijith-mallya-98768b202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+<script src="https://gist.github.com/AbhijithMallya/668a0352088e96af7bdb187004a507d3.js"></script>
+
 <!-- ### Connect with me: -->
 
 <br />
