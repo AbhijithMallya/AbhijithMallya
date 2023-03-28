@@ -25,9 +25,10 @@ You can click the Preview link to take a look at your changes.
   </a>	 
   <a href="https://www.linkedin.com/in/abhijith-mallya-98768b202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
-**curl -s https://api.github.com/users/AbhijithMallya/repos | grep \"clone_url\" | awk '{print $2}' | sed -e 's/"//g' -e 's/,//g' | xargs -n1 git clone**
-
+<hr>
+<p>
+	https://abhijithmallya.github.io
+</p>
 <!-- ### Connect with me: -->
 
 <br />
